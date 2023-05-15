@@ -2,7 +2,7 @@
   "name": "@salimabsi/prettier-config",
   "author": "Salim Absi <hi@salimabsi.me> (https://salimabsi.me)",
   "repository": "https://github.com/salimabsi/prettier-config.git",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Personal Prettier configuration",
   "license": "MIT",
   "publishConfig": {
@@ -13,7 +13,7 @@
     "index.js",
     ".prettierrc.json"
   ],
-	"devDependencies": {
-		"prettier": "^2.8.8"
-	}
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
 }
