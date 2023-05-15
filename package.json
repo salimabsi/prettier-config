@@ -1,6 +1,6 @@
 {
   "name": "@salimabsi/prettier-config",
-  "author": "Salim Absi",
+  "author": "Salim Absi <hi@salimabsi.me> (https://salimabsi.me)",
   "repository": "https://github.com/salimabsi/prettier-config.git",
   "version": "0.1.0",
   "description": "Personal Prettier configuration",
