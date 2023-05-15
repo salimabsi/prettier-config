@@ -1,0 +1,1 @@
+# My perosnal Prettier configuration
