@@ -1,0 +1,18 @@
+{
+  "name": "@salimabsi/prettier-config",
+  "author": "Salim Absi",
+  "repository": "https://github.com/salimabsi/prettier-config.git",
+  "version": "0.1.0",
+  "description": "Personal Prettier configuration",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+	"devDependencies": {
+		"prettier": "^2.8.8"
+	}
+}
