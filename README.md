@@ -29,7 +29,7 @@ To override configurations, include the following code in your `.prettierrc.js` 
 
 ```js
 module.exports = {
-  ...require("@salimabsi/prettier-config"),
+  ...require('@salimabsi/prettier-config'),
   printWidth: 120,
 }
 ```
